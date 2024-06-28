@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\user\\Downloads\\Route\\C#\\Solutions\\Session 03\\Demo\\Demo.csproj": {}
+    "C:\\Users\\user\\Downloads\\Route\\C#\\C# Solutions\\Session 03\\Demo\\Demo.csproj": {}
   },
   "projects": {
-    "C:\\Users\\user\\Downloads\\Route\\C#\\Solutions\\Session 03\\Demo\\Demo.csproj": {
+    "C:\\Users\\user\\Downloads\\Route\\C#\\C# Solutions\\Session 03\\Demo\\Demo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\user\\Downloads\\Route\\C#\\Solutions\\Session 03\\Demo\\Demo.csproj",
+        "projectUniqueName": "C:\\Users\\user\\Downloads\\Route\\C#\\C# Solutions\\Session 03\\Demo\\Demo.csproj",
         "projectName": "Demo",
-        "projectPath": "C:\\Users\\user\\Downloads\\Route\\C#\\Solutions\\Session 03\\Demo\\Demo.csproj",
+        "projectPath": "C:\\Users\\user\\Downloads\\Route\\C#\\C# Solutions\\Session 03\\Demo\\Demo.csproj",
         "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\user\\Downloads\\Route\\C#\\Solutions\\Session 03\\Demo\\obj\\",
+        "outputPath": "C:\\Users\\user\\Downloads\\Route\\C#\\C# Solutions\\Session 03\\Demo\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
