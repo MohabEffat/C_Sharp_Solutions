@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Mohab_Mon&Thurs_4pm_C# 04/1.0.0": {
+        "runtime": {
+          "Mohab_Mon&Thurs_4pm_C# 04.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Mohab_Mon&Thurs_4pm_C# 04/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

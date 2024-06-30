@@ -3,12 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\user\\Downloads\\Route\\C#\\C# Solutions\\Session 04\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{6031820E-B313-4DF5-A9DE-8A3D1AD16548}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\user\\downloads\\route\\c#\\c# solutions\\session 04\\consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6031820E-B313-4DF5-A9DE-8A3D1AD16548}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B0F1E30C-86FC-41E5-9AA5-BDF7DE9CB125}|Demo\\Demo.csproj|c:\\users\\user\\downloads\\route\\c#\\c# solutions\\session 04\\demo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B0F1E30C-86FC-41E5-9AA5-BDF7DE9CB125}|Demo\\Demo.csproj|solutionrelative:demo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1AAC1038-AC69-4A3B-9927-668A5C0B5A99}|Mohab_Mon\u0026Thurs_4pm_C# 04\\Mohab_Mon\u0026Thurs_4pm_C# 04.csproj|c:\\users\\user\\downloads\\route\\c#\\c# solutions\\session 04\\mohab_mon\u0026thurs_4pm_c# 04\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1AAC1038-AC69-4A3B-9927-668A5C0B5A99}|Mohab_Mon\u0026Thurs_4pm_C# 04\\Mohab_Mon\u0026Thurs_4pm_C# 04.csproj|solutionrelative:mohab_mon\u0026thurs_4pm_c# 04\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{1BFFABD1-AEA7-4434-B936-B1B532C02178}|Task\\Task.csproj|c:\\users\\user\\downloads\\route\\c#\\c# solutions\\session 04\\task\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -22,45 +18,32 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\user\\Downloads\\Route\\C#\\C# Solutions\\Session 04\\ConsoleApp1\\Program.cs",
-              "RelativeDocumentMoniker": "ConsoleApp1\\Program.cs",
-              "ToolTip": "C:\\Users\\user\\Downloads\\Route\\C#\\C# Solutions\\Session 04\\ConsoleApp1\\Program.cs",
-              "RelativeToolTip": "ConsoleApp1\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-28T20:49:47.829Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\user\\Downloads\\Route\\C#\\C# Solutions\\Session 04\\Demo\\Program.cs",
-              "RelativeDocumentMoniker": "Demo\\Program.cs",
-              "ToolTip": "C:\\Users\\user\\Downloads\\Route\\C#\\C# Solutions\\Session 04\\Demo\\Program.cs",
-              "RelativeToolTip": "Demo\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-28T20:49:33.981Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\user\\Downloads\\Route\\C#\\C# Solutions\\Session 04\\Task\\Program.cs",
               "RelativeDocumentMoniker": "Task\\Program.cs",
               "ToolTip": "C:\\Users\\user\\Downloads\\Route\\C#\\C# Solutions\\Session 04\\Task\\Program.cs",
               "RelativeToolTip": "Task\\Program.cs",
-              "ViewState": "AgIAABUAAAAAAAAAAAAAACgAAAANAAAAAAAAAA==",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAABQAAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-27T14:11:15.718Z",
+              "WhenOpened": "2024-06-29T23:02:34.535Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Downloads\\Route\\C#\\C# Solutions\\Session 04\\Mohab_Mon\u0026Thurs_4pm_C# 04\\Program.cs",
+              "RelativeDocumentMoniker": "Mohab_Mon\u0026Thurs_4pm_C# 04\\Program.cs",
+              "ToolTip": "C:\\Users\\user\\Downloads\\Route\\C#\\C# Solutions\\Session 04\\Mohab_Mon\u0026Thurs_4pm_C# 04\\Program.cs",
+              "RelativeToolTip": "Mohab_Mon\u0026Thurs_4pm_C# 04\\Program.cs",
+              "ViewState": "AgIAANwAAAAAAAAAAAAAAPYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T23:02:57.734Z",
               "EditorCaption": ""
             }
           ]

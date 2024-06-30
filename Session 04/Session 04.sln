@@ -7,7 +7,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Task", "Task\Task.csproj", 
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Demo", "Demo\Demo.csproj", "{B0F1E30C-86FC-41E5-9AA5-BDF7DE9CB125}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Mohab_Mon&Thurs_4pm_C# 04", "ConsoleApp1\Mohab_Mon&Thurs_4pm_C# 04.csproj", "{6031820E-B313-4DF5-A9DE-8A3D1AD16548}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mohab_Mon&Thurs_4pm_C# 04", "Mohab_Mon&Thurs_4pm_C# 04\Mohab_Mon&Thurs_4pm_C# 04.csproj", "{1AAC1038-AC69-4A3B-9927-668A5C0B5A99}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -23,10 +23,10 @@ Global
 		{B0F1E30C-86FC-41E5-9AA5-BDF7DE9CB125}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B0F1E30C-86FC-41E5-9AA5-BDF7DE9CB125}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B0F1E30C-86FC-41E5-9AA5-BDF7DE9CB125}.Release|Any CPU.Build.0 = Release|Any CPU
-		{6031820E-B313-4DF5-A9DE-8A3D1AD16548}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{6031820E-B313-4DF5-A9DE-8A3D1AD16548}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{6031820E-B313-4DF5-A9DE-8A3D1AD16548}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{6031820E-B313-4DF5-A9DE-8A3D1AD16548}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1AAC1038-AC69-4A3B-9927-668A5C0B5A99}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1AAC1038-AC69-4A3B-9927-668A5C0B5A99}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1AAC1038-AC69-4A3B-9927-668A5C0B5A99}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1AAC1038-AC69-4A3B-9927-668A5C0B5A99}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
