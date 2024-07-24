@@ -1,0 +1,14 @@
+C:\Users\user\source\repos\Session #02 Advanced\Session #02 Advanced\bin\Debug\net8.0\Session #02 Advanced.exe
+C:\Users\user\source\repos\Session #02 Advanced\Session #02 Advanced\bin\Debug\net8.0\Session #02 Advanced.deps.json
+C:\Users\user\source\repos\Session #02 Advanced\Session #02 Advanced\bin\Debug\net8.0\Session #02 Advanced.runtimeconfig.json
+C:\Users\user\source\repos\Session #02 Advanced\Session #02 Advanced\bin\Debug\net8.0\Session #02 Advanced.dll
+C:\Users\user\source\repos\Session #02 Advanced\Session #02 Advanced\bin\Debug\net8.0\Session #02 Advanced.pdb
+C:\Users\user\source\repos\Session #02 Advanced\Session #02 Advanced\obj\Debug\net8.0\Session #02 Advanced.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\Session #02 Advanced\Session #02 Advanced\obj\Debug\net8.0\Session #02 Advanced.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\Session #02 Advanced\Session #02 Advanced\obj\Debug\net8.0\Session #02 Advanced.AssemblyInfo.cs
+C:\Users\user\source\repos\Session #02 Advanced\Session #02 Advanced\obj\Debug\net8.0\Session #02 Advanced.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Session #02 Advanced\Session #02 Advanced\obj\Debug\net8.0\Session #02 Advanced.dll
+C:\Users\user\source\repos\Session #02 Advanced\Session #02 Advanced\obj\Debug\net8.0\refint\Session #02 Advanced.dll
+C:\Users\user\source\repos\Session #02 Advanced\Session #02 Advanced\obj\Debug\net8.0\Session #02 Advanced.pdb
+C:\Users\user\source\repos\Session #02 Advanced\Session #02 Advanced\obj\Debug\net8.0\Session #02 Advanced.genruntimeconfig.cache
+C:\Users\user\source\repos\Session #02 Advanced\Session #02 Advanced\obj\Debug\net8.0\ref\Session #02 Advanced.dll

@@ -1,0 +1,123 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\source\\repos\\Session #02 Advanced\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B72280CB-C494-42FC-B7FD-15A20A6932AB}|Session #02 Advanced\\Session #02 Advanced.csproj|c:\\users\\user\\source\\repos\\session #02 advanced\\session #02 advanced\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B72280CB-C494-42FC-B7FD-15A20A6932AB}|Session #02 Advanced\\Session #02 Advanced.csproj|solutionrelative:session #02 advanced\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21D088BB-53A7-4166-806F-BF156B1E5045}|Demo\\Demo.csproj|c:\\users\\user\\source\\repos\\session #02 advanced\\demo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21D088BB-53A7-4166-806F-BF156B1E5045}|Demo\\Demo.csproj|solutionrelative:demo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21D088BB-53A7-4166-806F-BF156B1E5045}|Demo\\Demo.csproj|c:\\users\\user\\source\\repos\\session #02 advanced\\demo\\sortingalgorithms.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21D088BB-53A7-4166-806F-BF156B1E5045}|Demo\\Demo.csproj|solutionrelative:demo\\sortingalgorithms.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B72280CB-C494-42FC-B7FD-15A20A6932AB}|Session #02 Advanced\\Session #02 Advanced.csproj|c:\\users\\user\\source\\repos\\session #02 advanced\\session #02 advanced\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B72280CB-C494-42FC-B7FD-15A20A6932AB}|Session #02 Advanced\\Session #02 Advanced.csproj|solutionrelative:session #02 advanced\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B72280CB-C494-42FC-B7FD-15A20A6932AB}|Session #02 Advanced\\Session #02 Advanced.csproj|c:\\users\\user\\source\\repos\\session #02 advanced\\session #02 advanced\\libraryengine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B72280CB-C494-42FC-B7FD-15A20A6932AB}|Session #02 Advanced\\Session #02 Advanced.csproj|solutionrelative:session #02 advanced\\libraryengine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B72280CB-C494-42FC-B7FD-15A20A6932AB}|Session #02 Advanced\\Session #02 Advanced.csproj|c:\\users\\user\\source\\repos\\session #02 advanced\\session #02 advanced\\bookfunctions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B72280CB-C494-42FC-B7FD-15A20A6932AB}|Session #02 Advanced\\Session #02 Advanced.csproj|solutionrelative:session #02 advanced\\bookfunctions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Session #02 Advanced\\Demo\\Program.cs",
+              "RelativeDocumentMoniker": "Demo\\Program.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Session #02 Advanced\\Demo\\Program.cs",
+              "RelativeToolTip": "Demo\\Program.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAAwCIAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T19:20:39.089Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SortingAlgorithms.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Session #02 Advanced\\Demo\\SortingAlgorithms.cs",
+              "RelativeDocumentMoniker": "Demo\\SortingAlgorithms.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Session #02 Advanced\\Demo\\SortingAlgorithms.cs",
+              "RelativeToolTip": "Demo\\SortingAlgorithms.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T21:44:02.081Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LibraryEngine.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Session #02 Advanced\\Session #02 Advanced\\LibraryEngine.cs",
+              "RelativeDocumentMoniker": "Session #02 Advanced\\LibraryEngine.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Session #02 Advanced\\Session #02 Advanced\\LibraryEngine.cs",
+              "RelativeToolTip": "Session #02 Advanced\\LibraryEngine.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T21:36:33.48Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BookFunctions.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Session #02 Advanced\\Session #02 Advanced\\BookFunctions.cs",
+              "RelativeDocumentMoniker": "Session #02 Advanced\\BookFunctions.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Session #02 Advanced\\Session #02 Advanced\\BookFunctions.cs",
+              "RelativeToolTip": "Session #02 Advanced\\BookFunctions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAoAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T21:27:51.046Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Book.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Session #02 Advanced\\Session #02 Advanced\\Book.cs",
+              "RelativeDocumentMoniker": "Session #02 Advanced\\Book.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Session #02 Advanced\\Session #02 Advanced\\Book.cs",
+              "RelativeToolTip": "Session #02 Advanced\\Book.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwBsAAACWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T21:14:05.988Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Session #02 Advanced\\Session #02 Advanced\\Program.cs",
+              "RelativeDocumentMoniker": "Session #02 Advanced\\Program.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Session #02 Advanced\\Session #02 Advanced\\Program.cs",
+              "RelativeToolTip": "Session #02 Advanced\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAD8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T20:27:05.501Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
